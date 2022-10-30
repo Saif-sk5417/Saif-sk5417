@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif Shaikh</h1>
-<img src='https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg' width='846px' height='254px'>
+<img src='https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg' width='846px' height='300px'>
 <h3 align="center">I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-sk5417&label=Profile%20views&color=0e75b6&style=flat" alt="saif-sk5417" /> </p>
