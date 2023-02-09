@@ -2,7 +2,7 @@
 <img src='https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg' width='846px' height='350px'>
 <h3 align="center">I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-sk5417&label=Profile%20views&color=0e75b6&style=flat" alt="saif-sk5417" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=saif-sk5417&label=Profile%20views&color=0e75b6&style=flat](https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)" alt="saif-sk5417" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
