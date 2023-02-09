@@ -28,14 +28,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saif-shaikh-76888624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saif-shaikh-76888624a/" height="30" width="40" /></a>
 </p>
   
-## STATS
-<p><img align="left" width = "47%" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
-<p><img align="right" width = "48%" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
 
-<br/>
-
-
-<div align="left"><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-sk5417&show_icons=true&locale=en&layout=compact" alt="saif-sk5417" /></div>
 
 ## LANGUAGEs & TOOLS
   
