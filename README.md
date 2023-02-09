@@ -30,8 +30,8 @@
   
 ## STATS
 
-<p><img align="right" width = "46%" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
-<p><img align="left" width = "46%" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
+<p><img align="right" width = "47%" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
+<p><img align="left" width = "47%" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
   
 <br/>
   
