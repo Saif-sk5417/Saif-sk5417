@@ -27,7 +27,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saif-shaikh-76888624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saif-shaikh-76888624a/" height="30" width="40" /></a>
 </p>
+  
+## STATS
 
+<p><img align="right" width = "46%" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
+<p><img align="left" width = "46%" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
+  
+<br/>
+  
 ## LANGUAGE & TOOLS
   
 <br/>
@@ -44,11 +51,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
 </div>
+  
+<br/>
+
+<div align="left"><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-sk5417&show_icons=true&locale=en&layout=compact" alt="saif-sk5417" /></div>
 
 
-
-## STATS
-
-<p><img align="right" width = "46%" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
-<p><img align="left" width = "46%" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-sk5417&show_icons=true&locale=en&layout=compact" alt="saif-sk5417" /></p>
