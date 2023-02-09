@@ -50,3 +50,4 @@
 ## STATS
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-sk5417&" alt="saif-sk5417" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saif-sk5417&show_icons=true&locale=en" alt="saif-sk5417" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-sk5417&show_icons=true&locale=en&layout=compact" alt="saif-sk5417" /></p>
