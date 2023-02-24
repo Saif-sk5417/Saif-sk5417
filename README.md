@@ -12,11 +12,11 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻My [Portfolio](https://saif-sk5417.github.io/)
+- 👨‍💻[Portfolio](https://saif-sk5417.github.io/)
 
 - 💬 Ask me about **MERN | HTML | CSS | DSA**
   
-- 🔭My Resume [https://drive.google.com/file/d/1w56MA5PwaRjQDPjjjWNSYHfll2j7JwTt/view)
+- 📄[Resume](https://drive.google.com/file/d/1w56MA5PwaRjQDPjjjWNSYHfll2j7JwTt/view)
 
   
  <br/>
