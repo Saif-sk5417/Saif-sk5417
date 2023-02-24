@@ -17,14 +17,16 @@
 - 💬 Ask me about **MERN | HTML | CSS | DSA**
   
 - 📄[Resume](https://drive.google.com/file/d/1w56MA5PwaRjQDPjjjWNSYHfll2j7JwTt/view)
-
+  
+- ✉️[Email](saifShaikh230304@gmail.com)
   
  <br/>
 
 ## CONNECT WITH ME
   
 <br/>
-- 📫[Email](https://saif-sk5417.github.io/)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-shaikh-76888624a/) 
 
 
 ## LANGUAGEs & TOOLS
