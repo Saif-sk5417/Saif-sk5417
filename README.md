@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻My Portfolio [https://saif-sk5417.github.io/](https://saif-sk5417.github.io/)
+- 👨‍💻My [Portfolio](https://saif-sk5417.github.io/)
 
 - 💬 Ask me about **MERN | HTML | CSS | DSA**
   
