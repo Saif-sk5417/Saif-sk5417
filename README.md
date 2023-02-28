@@ -18,7 +18,7 @@
   
 - 📄[Resume](https://drive.google.com/file/d/1w56MA5PwaRjQDPjjjWNSYHfll2j7JwTt/view)
   
-- ✉️[Email](saifShaikh230304@gmail.com)
+- ✉️saifShaikh230304@gmail.com
   
  <br/>
 
