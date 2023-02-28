@@ -27,7 +27,7 @@
   
 <br/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-shaikh-76888624a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-shaikh-76888624a/) 
 
 
 ## LANGUAGEs & TOOLS
